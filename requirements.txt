@@ -1,0 +1,12 @@
+python-telegram-bot
+openai==1.55.3
+pandas
+numpy
+requests
+beautifulsoup4
+lxml
+python-dotenv
+tabulate
+openpyxl
+httpx==0.27.2
+pandas
