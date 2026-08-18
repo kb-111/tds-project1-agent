@@ -461,5 +461,4 @@ Other credentials
 Use environment variables or a secret-management system for sensitive configuration.
 
 ## License
-
 This project is intended for educational purposes.
